@@ -3,7 +3,7 @@
 
 module.exports = {
 
-    endpoint: "http://boomlings.com/database/", // Server endpoint to send requests to
+    endpoint: "http://alterngd.000webhostapp.com/", // Server endpoint to send requests to
 
     params: {   // Always send this stuff to the servers
         secret: 'Wmfd2893gb7',
